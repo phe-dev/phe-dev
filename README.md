@@ -19,7 +19,7 @@
 
 🚀 **Projetos em andamento:**
 - 💡 Construindo aplicações web interativas
-- 📚 Compartilhando conhecimento sobre programação
+- 📚 desenvolmento fundamentos sobre programação
 
 📈 **Objetivos:**
 - Aprimorar minhas habilidades em JavaScript
