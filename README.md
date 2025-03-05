@@ -24,7 +24,6 @@
 📈 **Objetivos:**
 - Aprimorar minhas habilidades em JavaScript
 - Contribuir com projetos open-source
-- Acresentar na área
 
 Vamos crescer juntos! 💻✨
 
