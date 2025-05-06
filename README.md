@@ -5,13 +5,22 @@
 
 ![Pedro Henrique](https://github.com/user-attachments/assets/10e476d7-0111-4680-b58d-2e1f6fc2819d)
 
+### Meu Site
+[HOUVER ME](https://my-portifolio-gamma-ten.vercel.app/)
 
+
+ ## 🛠️ Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Tech-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tech-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tech-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tech-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+### Bancos de Dados:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 🌱 **Tecnologias que estou aprendendo:**
