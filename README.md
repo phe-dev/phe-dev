@@ -5,7 +5,6 @@
 
 ![Pedro Henrique](https://github.com/user-attachments/assets/10e476d7-0111-4680-b58d-2e1f6fc2819d)
 
-[HOUVER ME 🚀](https://my-portifolio-gamma-ten.vercel.app/)
 
 
  ## 🛠️ Habilidades
