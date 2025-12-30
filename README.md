@@ -3,7 +3,6 @@
 
 ## Bem-vindo ao meu espaço de programação e tecnologia!
 
-![Pedro Henrique](https://github.com/user-attachments/assets/306cea81-0e15-40fb-b8aa-9b151e565d60)
 
 
 
